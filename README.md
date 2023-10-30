@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/harmless004" target="blank"><img src="https://img.shields.io/twitter/follow/harmless004?logo=twitter&style=for-the-badge" alt="harmless004" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , REACT.js , Solidity**
+- 🌱 I’m currently learning **JavaScript , REACT.js , Solidity , Next.js..**
 
 - You can reach me with **harmless04.devaloper@gmail.com**
 
