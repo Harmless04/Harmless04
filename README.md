@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript , REACT.js , Solidity , Next.js..**
 
-- You can reach me with **harmless04.devaloper@gmail.com**
+- You can reach me with **devadath.ks013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
