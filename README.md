@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/harmless004" target="blank"><img src="https://img.shields.io/twitter/follow/harmless004?logo=twitter&style=for-the-badge" alt="harmless004" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , REACT.js , Solidity , Next.js..**
+- 🌱 I’m currently learning **JavaScript , REACT.js , Next.js..**
 
-- You can reach me with **devadath.ks013@gmail.com**
+- You can reach me with **ksdeva25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
